@@ -1,0 +1,7 @@
+body {
+    background: green;
+    font-size: 30px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+}
